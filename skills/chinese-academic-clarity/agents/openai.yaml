@@ -1,0 +1,4 @@
+interface:
+  display_name: "中文学术防御性写作修复"
+  short_description: "诊断并改写中文学术段落，压缩防御性表达，保留证据强度与必要边界"
+  default_prompt: "使用 $chinese-academic-clarity 润色当前文本，突出中心判断，保留事实依据与必要边界。"
